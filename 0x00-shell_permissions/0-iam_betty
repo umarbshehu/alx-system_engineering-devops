@@ -1,8 +1,2 @@
 #!/bin/bash
-su -u betty\n
-
-
-
-
-
-
+su betty

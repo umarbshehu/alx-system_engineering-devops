@@ -1,1 +1,1 @@
-su -u betty
+My name is Betty
