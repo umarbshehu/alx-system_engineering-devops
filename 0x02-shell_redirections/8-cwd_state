@@ -1,2 +1,22 @@
-#!/bin/bash
-echo ls -al > ls_cwd_content
+total 84
+drwxr-xr-x 2 root root  4096 Dec  6 09:57 .
+drwxr-xr-x 6 root root   121 Dec  5 08:41 ..
+-rwxr--r-- 1 root root    34 Dec  5 13:28 0-hello_world
+-rw-r--r-- 1 root root 12288 Dec  5 12:25 .0-hello_world.swo
+-rw-r--r-- 1 root root 12288 Dec  5 09:23 .0-hello_world.swp
+-rwxr--r-- 1 root root    40 Dec  6 02:10 10-no_more_js
+-rw-r--r-- 1 root root    37 Dec  6 04:54 11-directories
+-rwxr--r-- 1 root root    28 Dec  5 13:36 1-confused
+-rwxr--r-- 1 root root    28 Dec  5 13:40 2-hellofile
+-rwxr--r-- 1 root root    39 Dec  5 14:04 3-twofiles
+-rwxr--r-- 1 root root    39 Dec  6 00:24 4-lastlines
+-rwxr--r-- 1 root root    39 Dec  6 00:28 5-firstlines
+-rwxr--r-- 1 root root    41 Dec  6 00:41 6-third_line
+-rwxr--r-- 1 root root    41 Dec  6 01:44 8-cwd_state
+-rwxr--r-- 1 root root    41 Dec  6 01:48 9-duplicate_last_line
+-rwxr--r-- 1 root root    12 Dec  6 01:37 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     0 Dec  5 12:27 Hello, World
+-rw-r--r-- 1 root root   756 Dec  6 00:34 iacta
+-rwxr--r-- 1 root root     0 Dec  6 09:58 ls_cwd_content
+-rw-r--r-- 1 root root     0 Dec  5 12:48 "(Ôo)'
+-rw-r--r-- 1 root root    37 Dec  5 13:11 README.md
